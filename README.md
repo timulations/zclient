@@ -15,7 +15,7 @@ With the SSL-secured variants (https:// and wss://), SSL verification is enabled
 ## Coverage 
 | Branch | Mac OS | Linux | Windows |
 | ------ | ------ | ----- | ------- |
-| main   | ✅ | ?    |   ?     |
+| main   | ✅ |     |        |
 
 ## Requirements / Dependencies:
 - C++20: Required for coroutines support
