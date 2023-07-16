@@ -2,8 +2,11 @@
 Tired of callback hell when writing C++ networking code? Introducing ZCLIENT, a coroutines-based awaitable networking client built on Boost::Beast in C++20. Start writing asynchronous network code that reads like it's synchronous today! :rocket::rocket::rocket:
 
 ## Supported Protocols
+### HTTP
 - http://
 - https://
+
+### Websockets
 - ws://
 - wss://
 
