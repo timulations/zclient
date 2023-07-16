@@ -1,0 +1,9 @@
+[submodule "zlogger"]
+	path = zlogger
+	url = https://github.com/timulations/zlogger.git
+[submodule "jsoncpp"]
+	path = jsoncpp
+	url = https://github.com/open-source-parsers/jsoncpp.git
+[submodule "certify"]
+	path = certify
+	url = https://github.com/djarek/certify.git

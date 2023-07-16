@@ -1,0 +1,8 @@
+{
+    "/top_level_endpoint_test": "You have reached the top level endpoint",
+    "/api/v1": "You've reached API version 1",
+    "/api/v2": "You've reached API version 2",
+    "/this/right/here/is/a/deeply/nested/endpoint": "You made it to the end of the deeply nested endpoint",
+    "/as/g/asd/sd/cx/vd/": "asdjofas hoasdj foasijd oaijf jisvjd",
+    "/this_is_a_very_long_endpoint_hallelujah_hallelujah_hallelujah_ababa/": "You made it to the long endpoint bruv"
+}
